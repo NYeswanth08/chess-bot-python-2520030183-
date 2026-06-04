@@ -1,6 +1,6 @@
-# Chess Bot ♟️
+# Python Chess Bot ♟️
 
-A chess bot built from scratch in Python featuring complete move validation, legal move generation, board evaluation, and three AI difficulty levels.
+A Python Chess Bot built from scratch featuring move validation, legal move generation, board evaluation, and AI opponents powered by Random, Greedy, and Minimax algorithms.
 
 ## Features
 - ♟️ Complete chess board implementation
